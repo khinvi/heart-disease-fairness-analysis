@@ -4,7 +4,7 @@ This repository contains a comprehensive fairness analysis of machine learning m
 
 ## Project Overview
 
-The analysis focuses on gender-based fairness in heart disease prediction models, examining how different models and fairness interventions affect prediction equity between male and female groups.
+The analysis focuses on gender-based fairness in heart disease prediction models, examining how different models and fairness interventions affect prediction equity between male and female groups. If interested please take a look at our [Colab Document](https://github.com/khinvi/heart-disease-fairness-analysis/blob/main/Assignment2_291J.ipynb) for further insights and analysis.
 
 ### Key Components:
 - **Fairness Metrics**: Accuracy Parity, Demographic Parity, and Equalized Odds
